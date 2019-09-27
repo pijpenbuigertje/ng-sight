@@ -1,0 +1,12 @@
+.logo {
+  color: #000080;
+  font-weight: bold;
+  font-size: 1.4em; 
+}
+
+.logo-left {
+  background-color: #daa520;
+  padding: 3px 8px 3px 8px;
+  border-radius: 4px;
+}
+
