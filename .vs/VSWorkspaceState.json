@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\charts",
+    "\\src\\app\\charts\\bar-chart",
+    "\\src\\app\\charts\\line-chart",
+    "\\src\\app\\charts\\pie-chart",
+    "\\src\\app\\navbar",
+    "\\src\\app\\Sections",
+    "\\src\\app\\Shared"
+  ],
+  "SelectedNode": "\\src\\styles.css",
+  "PreviewInSolutionExplorer": false
+}
